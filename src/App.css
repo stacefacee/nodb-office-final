@@ -1,0 +1,63 @@
+
+
+
+.App {
+  background-image: url('https://media.glassdoor.com/l/3c/a3/a1/e4/dunder-mifflin-s-bullpen.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  
+}
+
+#header-pic{
+  height: 200px;
+  width: 700px;
+}
+
+input {
+  width: 25%;
+  box-sizing: border-box;
+  height: 35px;
+  
+}
+
+
+
+
+.main{
+  border: solid 2px black;
+  border-radius: 20px;
+  display:  inline-block;
+  vertical-align: top;
+
+  background-color: antiquewhite;
+  height: 500px;
+  width:500px;
+  margin: 10px;
+  font-family: 'Work Sans', sans-serif;
+  
+
+}
+
+#pics{
+  height: 300px;
+  width:300px;
+  border-radius: 8px;
+  border: solid 1px black; 
+  
+  
+}
+
+.button {
+  
+  border: 2px solid grey;
+}
+
